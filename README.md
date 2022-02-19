@@ -47,14 +47,11 @@ $ git clone https://github.com/GabrielSnows/ecoleta
 # Acesse a pasta do projeto no terminal/cmd
 $ cd ecoleta
 
-# Vá para a pasta src
-$ cd src
-
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:src
+$ npm run dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
